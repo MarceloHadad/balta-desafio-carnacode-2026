@@ -50,4 +50,8 @@ O desafio **CarnaCode 2026** consiste em implementar padrões de projetos em cen
 
 ### Minhas Recompensas
 
+![Abstract Factory](https://baltaio.blob.core.windows.net/static/images/v4/challenges/carnacode-2026/rewards/abstract-factory/image.png)
+
 ### Meus Projetos
+
+[MarceloHadad/balta-desafio-carnacode-2026_1-abstract-factory](https://github.com/MarceloHadad/balta-desafio-carnacode-2026_1-abstract-factory)
